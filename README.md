@@ -3,7 +3,7 @@ Github respository hosting companion code for 'Discovery of a Linked Constellati
 
 <img width="525" height="360" alt="AFB_Graphical_Abstract" src="https://github.com/user-attachments/assets/d7075179-e63a-4f59-9d3d-15a262d86330" />
 
-This respository contains .R files contain code to generate Figures 3-6 and Supplementary Figures 4 and 5.
+This respository contains .R files that contain code to generate Figures 3-6 and Supplementary Figures 4 and 5.
 Files to replicate main Figures 3-6 and Supplementary Figures 4 and 5 can be downloaded at Synapse (https://www.synapse.org/Synapse:syn71170339).
 Processing and merging of demultiplexed sample_raw_feature_bc_matrix.h5 files to generate global Seurat object is documented in 'Figure S4.R'
 
@@ -23,5 +23,6 @@ Figure 6. Combinatorial knockout shows that emergence of Tgfbr2 knockout-induced
 <img width="303" height="368" alt="image" src="https://github.com/user-attachments/assets/2b92d42b-3738-4352-96bf-20af2518b10e" />
 
 # Supplemental Figures
-Figure S4.
-Figure S5.
+Figure S4. Supports Figure 3.
+
+Figure S5. Supports Figures 4-6.
