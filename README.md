@@ -1,5 +1,5 @@
 # Kuhn_AAV-gRNA_CAF
-Github respository hosting companion code for 'Discovery of a Linked Constellation of Gene Expression Revealed by Local Editing of Fibroblasts in Tumors' (Kuhn et al., 2025)
+Github respository hosting companion code for 'Local gene editing of fibroblasts in tumors reveals a new cancer-associated fibroblast state' (Kuhn et al., 2026)
 
 <img width="525" height="360" alt="AFB_Graphical_Abstract" src="https://github.com/user-attachments/assets/d7075179-e63a-4f59-9d3d-15a262d86330" />
 
